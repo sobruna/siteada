@@ -1,2 +1,2 @@
 # siteada
-Projeto ProgaMaria - Módulo 02
+Projeto PrograMaria - Módulo 02
